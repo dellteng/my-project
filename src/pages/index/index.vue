@@ -8,8 +8,4 @@ export default {
 }
 </script>
 
-<style scoped>
-  .header {
-    background: red;
-  }
-</style>
+<style scoped></style>
